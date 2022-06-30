@@ -3,12 +3,12 @@ package com.curiositas.java.basics.session1.examples;
 import java.util.Arrays;
 import java.util.Random;
 
-import static com.curiositas.java.basics.session1.examples.Step7_1ClearNamesAndMethods.Name.*;
+import static com.curiositas.java.basics.session1.examples.Step7_2ClearNamesAndMethods.Name.*;
 
 /**
  * So, after some refactoring, the purpose of the class is clear. It generates arrays of the random names
  */
-public class Step7_1ClearNamesAndMethods {
+public class Step7_2ClearNamesAndMethods {
 
     private String[] randomNames;
     private static final Random random = new Random();
@@ -48,11 +48,11 @@ public class Step7_1ClearNamesAndMethods {
     }
 
     public static void main(String[] args) {
-        Step7_1ClearNamesAndMethods example1 = new Step7_1ClearNamesAndMethods();
+        Step7_2ClearNamesAndMethods example1 = new Step7_2ClearNamesAndMethods();
         example1.generateRandomNames(5); // We generate 5 random names in the first example
         System.out.println(example1);
 
-        Step7_1ClearNamesAndMethods example2 = new Step7_1ClearNamesAndMethods();
+        Step7_2ClearNamesAndMethods example2 = new Step7_2ClearNamesAndMethods();
         example2.generateRandomNames(2); // and generate 2 random names in the first example
         System.out.println(example2);
     }

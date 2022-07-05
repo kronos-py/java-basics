@@ -1,7 +1,7 @@
-package com.curiositas.java.basics.session1.examples;
+package com.curiositas.java.basics.session2.examples;
 
 
-import com.curiositas.java.basics.session1.examples.imports.Date;
+import com.curiositas.java.basics.session2.examples.imports.Date;
 
 public class Step10Import {
     public static void main(String[] args) {

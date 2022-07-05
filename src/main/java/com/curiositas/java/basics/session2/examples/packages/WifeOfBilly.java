@@ -1,4 +1,4 @@
-package com.curiositas.java.basics.session1.examples.packages;
+package com.curiositas.java.basics.session2.examples.packages;
 
 public class WifeOfBilly {
     public void forceWifeToCallAllAvailableMethods() {

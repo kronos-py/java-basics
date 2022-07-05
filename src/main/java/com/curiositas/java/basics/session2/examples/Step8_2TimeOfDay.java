@@ -1,9 +1,6 @@
-package com.curiositas.java.basics.session1.examples;
+package com.curiositas.java.basics.session2.examples;
 
-import com.curiositas.java.basics.session1.examples.classes.creatures.*;
-import com.curiositas.java.basics.session1.examples.classes.timesofday.TimeOfDay;
-
-import java.util.ArrayList;
+import com.curiositas.java.basics.session2.examples.classes.timesofday.TimeOfDay;
 
 public class Step8_2TimeOfDay {
     public static void main(String[] args) {

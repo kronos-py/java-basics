@@ -1,4 +1,4 @@
-package com.curiositas.java.basics.session1.examples.classes.timesofday;
+package com.curiositas.java.basics.session2.examples.classes.timesofday;
 
 public enum TimeOfDay {
     MORNING("Good morning!"),

@@ -1,9 +1,9 @@
-package com.curiositas.java.basics.session1.examples;
+package com.curiositas.java.basics.session2.examples;
 
-import com.curiositas.java.basics.session1.examples.packages.Billy;
-import com.curiositas.java.basics.session1.examples.packages.WifeOfBilly;
-import com.curiositas.java.basics.session1.examples.packages.neighbourpackage.Neighbour;
-import com.curiositas.java.basics.session1.examples.packages.sonpackage.SonOfBilly;
+import com.curiositas.java.basics.session2.examples.packages.Billy;
+import com.curiositas.java.basics.session2.examples.packages.WifeOfBilly;
+import com.curiositas.java.basics.session2.examples.packages.neighbourpackage.Neighbour;
+import com.curiositas.java.basics.session2.examples.packages.sonpackage.SonOfBilly;
 
 public class Step9Packages {
     public static void main(String[] args) {

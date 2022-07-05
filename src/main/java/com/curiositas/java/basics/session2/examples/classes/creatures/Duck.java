@@ -1,4 +1,4 @@
-package com.curiositas.java.basics.session1.examples.classes.creatures;
+package com.curiositas.java.basics.session2.examples.classes.creatures;
 
 public class Duck extends Flying {
     @Override

@@ -1,4 +1,4 @@
-package com.curiositas.java.basics.session1.examples.imports;
+package com.curiositas.java.basics.session2.examples.imports;
 
 public class Date {
     @Override

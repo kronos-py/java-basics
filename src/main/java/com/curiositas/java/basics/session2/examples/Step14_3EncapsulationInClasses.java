@@ -1,13 +1,11 @@
 package com.curiositas.java.basics.session2.examples;
 
-import com.curiositas.java.basics.session2.examples.encapsulation.GreetingMessagePreparer;
-import com.curiositas.java.basics.session2.examples.encapsulation.Input;
-import com.curiositas.java.basics.session2.examples.encapsulation.Output;
+import com.curiositas.java.basics.session2.examples.encapsulation.*;
 
 public class Step14_3EncapsulationInClasses {
     public static void main(String[] args) {
-        var output = new Output();
-        var input = new Input();
+        Output output = new OutputToConsole();
+        Input input = new InputFromConsole();
 
         output.write("Input your name");
         var userName = input.read();
